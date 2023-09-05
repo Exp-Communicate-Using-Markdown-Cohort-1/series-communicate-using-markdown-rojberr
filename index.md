@@ -2,6 +2,10 @@
 
 smth smth
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
 Duis pariatur quis occaecat non officia elit nulla eu magna officia. 
 Qui amet consequat et Lorem ullamco consectetur irure ipsum deserunt 
 nisi commodo ullamco veniam. Aliqua consequat pariatur est ut. Aliquip 
