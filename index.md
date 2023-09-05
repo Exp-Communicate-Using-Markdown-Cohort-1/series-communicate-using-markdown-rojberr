@@ -10,3 +10,5 @@ ut nulla excepteur excepteur deserunt. Nisi exercitation laborum ea ut
 culpa sint amet deserunt consequat minim exercitation est laboris. 
 
 Ex nisi deserunt pariatur.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
